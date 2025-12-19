@@ -70,3 +70,5 @@ The app allows users to:
 - Enter vehicle specifications
 - Predict CO₂ emissions in real time
 - View model performance metrics
+
+View App: https://co2emissionprediction-app.streamlit.app/
